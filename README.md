@@ -1,2 +1,2 @@
 # Caxsol-Intern-Task
-All Task are include in this..
+Calculater by using React.js..
